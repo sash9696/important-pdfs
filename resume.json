@@ -1,0 +1,168 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Education",
+    "projects": "",
+    "awards": "",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Sahil Chopra",
+    "email": "sahilchopra838@gmail.com",
+    "phone": "7000911390",
+    "website": "https://www.linkedin.com/in/sahil-chopra-56a63b191/"
+  },
+  
+  "work": [
+    {
+      "position": "Founding Software Engineer",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Revamped the product, contributing to a valuation increase to 25 crores.",
+        "Developed features for a Power BI product, focusing on visualizations, filters, and dashboards.",
+        "Single-handedly created screens for a healthcare management system.",
+        "Reduced bundle size by 47% through optimization techniques.",
+        "Worked on webpack and microfrontend architecture."
+      ],
+      "company": "Groundzero Softwares Pvt Ltd",
+      "location": "Remote",
+      "startDate": "August 2022"
+    },
+    {
+      "highlights": [
+        "Launched courses on AJAX, REACT and JavaScript on coursera platform."
+      ],
+      "company": "Coursera",
+      "position": "Instructor",
+      "startDate": "Feb 2023",
+      "endDate": "May 2023"
+    },
+    {
+      "highlights": [
+        " Worked with supply team to build new features, integrated APls and solved various bugs in the U.I",
+        "Created new driver onboarding flow webview using VueJs and integrated it with the android app for drivers.This feature is being used by 7000+ drivers.",
+        "Single handedly created swap onboarding security pricing feature in admin panel.",
+        "Optimized the code to decrease the page load time by 12 percent."
+      ],
+      "company": " Oye Rickshaw",
+      "position": "Software Developer (Intern + PPO)",
+      "location": "Remote",
+      "startDate": "March 2022",
+      "endDate": "August 2022"
+    },
+    {
+      "highlights": [
+        "Performed live coding and taught Frontend Development to 1000+ students",
+        null,
+        "Coordinating with Subject Matter Experts, Teaching Assistants and Operations team to create courses and content."
+      ],
+      "company": "Relevel by Unacademy",
+      "position": "Front End Educator ",
+      "location": "Remote",
+      "startDate": "May 2021",
+      "endDate": "August 2022"
+    },
+    {
+      "highlights": [
+        "Created hands on practical industry level coding assignments.",
+        "Took technical sessions for students of  Global College of Engineering."
+      ],
+      "company": "Board Infinity",
+      "position": "Educator",
+      "location": "Remote",
+      "startDate": "July 2019",
+      "endDate": "December 2019"
+    },
+    {
+      "highlights": [
+        "Creating features and resolving Bugs related ot the websites and further optimization of the code.",
+        "Integrating apis to various webpages."
+      ],
+      "company": "Freelancing",
+      "position": "Freelance Web Developer",
+      "location": "Remote",
+      "startDate": " August 2018",
+      "endDate": " June 2019"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "ReactJs",
+        "Progressive Web Apps",
+        "Vanilla JavaScript",
+        null,
+        null,
+        "Redux",
+        null,
+        null,
+        ""
+      ],
+      "name": "Programming Skills"
+    },
+    {
+      "keywords": [
+        null,
+        null,
+        null,
+        "Web Performance",
+        "Design Patterns",
+        "Web Components",
+        "Firebase",
+        "GitHub",
+        "Webpack"
+      ],
+      "name": "Other Technical Skills"
+    }
+  ],
+  "education": [
+    {
+      "institution": "RGPV",
+      "location": "Bhopal",
+      "area": "Masters of Computer Application",
+      "studyType": "MCA",
+      "endDate": "2025",
+      "startDate": "2023"
+    },
+    {
+      "institution": "Vikram University",
+      "location": "Ujjain",
+      "area": "Mechanical Engineering",
+      "studyType": "BE",
+      "endDate": "2018",
+      "gpa": "7",
+      "startDate": "2014"
+    },
+    {}
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "work",
+    "projects",
+    "education",
+    "awards"
+  ]
+}
